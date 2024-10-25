@@ -1,4 +1,4 @@
-# Add missing package 1
-# Add missing package 2
-# Add missing package 3
-# Add missing package 4
+dash
+gunicorn
+pandas
+plotly
